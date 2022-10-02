@@ -1,0 +1,45 @@
+.nav-list {
+    margin-left: 63rem;
+    font-size: large;
+  }
+  .nav-item {
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+  .nav-item i {
+    font-size: 22px;
+  }
+  form {
+    display: flex;
+  }
+  
+  form input {
+    flex: 1;
+    border: none;
+    outline: none;
+    border: none;
+    outline: none;
+  }
+  
+  #search-btn {
+    padding: none !important;
+    outline: none;
+    border: none;
+    background-color: #fff;
+  }
+  .search-input {
+    outline: none;
+    border: none;
+    display: flex;
+    padding: none !important;
+  }
+  
+  .rotateimg90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
+  
+  
